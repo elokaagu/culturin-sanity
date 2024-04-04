@@ -9,7 +9,6 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@sanity/ui": "^2.0.12",
     "next": "14.1.0",
     "punycode": "^2.3.1",
     "react": "^18",
